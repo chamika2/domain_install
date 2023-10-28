@@ -2,19 +2,19 @@
 
 # (chamika.com)කියලා තියෙන හැම තැනටම ඔයාගෙ domain එක දෙන්න
 
-1 -        apt update && apt upgrade -y 
+## 1 -        apt update && apt upgrade -y 
 
-2 -         apt install curl socat -y
+## 2 -         apt install curl socat -y
 
-3 -        curl https://get.acme.sh | sh
+## 3 -        curl https://get.acme.sh | sh
 
-4 -       ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+## 4 -       ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
 
-5 -        ~/.acme.sh/acme.sh --register-account -m you.name@gmail.com
+## 5 -        ~/.acme.sh/acme.sh --register-account -m you.name@gmail.com
 
-6 -          ~/.acme.sh/acme.sh --issue -d chamika.com --standalone
+## 6 -          ~/.acme.sh/acme.sh --issue -d chamika.com --standalone
 
-7 -          ~/.acme.sh/acme.sh --installcert -d chamika.com --key-file /root/private.key --fullchain-file /root/cert.crt
+## 7 -          ~/.acme.sh/acme.sh --installcert -d chamika.com --key-file /root/private.key --fullchain-file /root/cert.crt
 
 # හරි_මේ ටික inatall කරලා~ ls command එක දෙන්න ඉට පස්සෙ මේ වගෙ code දෙකක් එයි (/root/cert.crt ,/root/private.key)
 # ඒ_code දෙ coppy කරගෙන ඔයාලගෙ x-ui පැනල් එකට log වෙන්න ඔයාලගෙ domain name එකයි x-ui install කරද්දි දාපු port එකයි ටයිප් කරලා google search කරන්න.
