@@ -38,4 +38,4 @@
           
 # create by chamika prasad
 # contact - 0762375808 
-# whatsapp only 😌🍀
+# whatsapp (https://wa.me/+94762375808)
