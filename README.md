@@ -29,6 +29,7 @@
 # ගිහින්( Panel certificate.crt file path ) එකට (/root/cert.crt) දෙන්න.
 # (Panel private.key file path) එකට( /root/private.key) දෙන්න .
 <img src=IMG_20231029_005634.jpg>
+
 # ඉට පස්සෙ  එතනම උඩ තියෙන restrart pannel ටච් කරන්න .
            
          
