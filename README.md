@@ -2,6 +2,7 @@
 # ඔයාලට domain එකක් නැත්නම් මුලින්ම මේ site එකට ගිහින් domain එකක් හදාගන්න.
 # free domain site - https://www.duckdns.org/domains
 # fomain එක හදලා ඔයාාග ip එක මෙතෙන්ට දාන්න. ඉට පස්සෙ domain එක coppy කරගන්න.
+<img src=IMG_20231029_020104.jpg>
 
 
 # (chamika.com)කියලා තියෙන හැම තැනටම ඔයාගෙ domain එක දෙන්න
